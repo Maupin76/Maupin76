@@ -7,6 +7,7 @@ I'm a passionate full-stack developer focused on building modern web application
 ### 🚀 About Me
 
 - 🔭 Currently working on full-stack web applications
+- 💼 Developed and maintain live business websites for clients
 - 💻 Experienced in both frontend and backend development
 - 🌱 Always learning and exploring new technologies
 - 📍 Based in Meridian, Idaho
@@ -35,6 +36,11 @@ I'm a passionate full-stack developer focused on building modern web application
 - RESTful APIs
 
 ### 📂 Featured Projects
+
+#### 🌐 Live Business Sites
+Professional websites developed and maintained for local businesses:
+- [Thai Royal Therapeutic](https://www.thairoyaltherapeutic.com/)
+- [Siam Thai Bodyworks](https://siamthaibodyworks.com/)
 
 #### ☕ [Coffee Shop](https://github.com/Maupin76/se_project_coffeeshop)
 A responsive coffee shop website showcasing modern frontend design principles.
