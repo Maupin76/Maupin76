@@ -23,6 +23,11 @@ I'm a passionate full-stack developer focused on building modern web application
 **Backend:**
 - Node.js
 - Express.js
+- Python (Flask, Django)
+
+**Database:**
+- MongoDB
+- MySQL
 
 **Tools & Platforms:**
 - Git & GitHub
