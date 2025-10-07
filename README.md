@@ -58,6 +58,8 @@ Full-stack project demonstrating end-to-end development capabilities.
 
 ![Douglas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maupin76&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maupin76&layout=compact&theme=radical)
+
 ### 📫 Let's Connect
 
 - LinkedIn: [douglas-maupin](https://www.linkedin.com/in/douglas-maupin/)
