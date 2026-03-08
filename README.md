@@ -42,6 +42,38 @@ Professional websites developed and maintained for local businesses:
 - [Thai Royal Therapeutic](https://www.thairoyaltherapeutic.com/)
 - [Siam Thai Bodyworks](https://siamthaibodyworks.com/)
 
+### 🌐 Live Projects
+📰 News Explorer
+Full-stack application allowing users to search and save news articles.
+
+Live:
+[https://news.douglasmaupin.com](https://news.douglasmaupin.com)
+Features:
+- JWT authentication
+- Save and manage personal articles
+- External news API integration
+- MongoDB database
+- React frontend
+- Node.js / Express backend
+- Deployed on Google Cloud VM
+- Secured with Cloudflare
+
+👕 WTWR (What To Wear)
+Weather-based clothing recommendation application with location weather status.
+
+Live:
+[https://wtwr.douglasmaupin.com](https://wtwr.douglasmaupin.com)
+Features:
+- Weather API integration
+- Clothing management
+- User authentication
+- React frontend
+- MongoDB database
+- Node.js / Express backend
+- Deployed on Google Cloud VM
+- Secured with Cloudflare
+
+### :octocat: GitHub Projects
 #### ☕ [Coffee Shop](https://github.com/Maupin76/se_project_coffeeshop)
 A responsive coffee shop website showcasing modern frontend design principles.
 
