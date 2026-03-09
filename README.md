@@ -1,4 +1,9 @@
+![Banner](./banner.png)
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=30&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=900&lines=Douglas+Maupin;Full-Stack+Software+Engineer;React+•+Node.js+•+MongoDB;Cloud+Deployment+Engineer)](https://git.io/typing-svg)
 # 👋 Hi, I'm Douglas Maupin
+🌐 Portfolio: https://maupin76.github.io  
+📰 News Explorer: https://news.douglasmaupin.com  
+👕 WTWR: https://wtwr.douglasmaupin.com
 
 ### Full-Stack Software Engineer  
 📍 Meridian, Idaho
